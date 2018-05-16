@@ -1,5 +1,7 @@
 # bogoupdate
 
+## Out of date and only here for reference
+
 This script is meant to be run via `cron` every 10 minutes so it can manage the `IMAP` based spam filtering and retraining folders. The spam filtering system itself is based on [BogoFilter]. The path to a users mailbox is typically `/home/u/DOMAINNAME/home/USERNAME/Maildir` where there can be a number of **optional** BogoFilter training folders outlined below. The presence of the `Junk` folder triggers most of the filtering actions, in other words if a `KeepSpam` folder exists but `Junk` does not then no spam will be saved to `KeepSpam`. Note that the spelling and case of these folders must be exactly as indicated.
 
 ## Junk
