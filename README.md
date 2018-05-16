@@ -1,3 +1,16 @@
-# NetServa Documentation
+# NetServa SH/HCP Documentation
 
-We have to make a start somewhere. This repo will be sparse and chaotic all through 2016.
+## Some notes about the goals of this documentation.
+
+-    What the project does
+-    Why the project is useful
+-    How users can get started with the project
+-    Where users can get help with your project
+-    Who maintains and contributes to the project
+
+### Index
+
+- [Play For Pay]
+
+
+[Play For Pay]: docs/play_for_pay.md
