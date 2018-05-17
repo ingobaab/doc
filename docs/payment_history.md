@@ -3,4 +3,4 @@
 
 | User  | Commits | Payment | Paid |
 | --- | :---: |---: | ---: |
-| @karkouch  | #5  | $9 | n
+| [karkouch](https://github.com/karkouch) | [#5](https://github.com/netserva/hcp/pull/5) | $9 | n
