@@ -3,6 +3,7 @@
 
 | Date | User  | Commits | Payment | Paid |
 | --- | --- | :---: |---: | ---: |
+| 2018-06-09 | [karkouch](https://github.com/karkouch) | [#13](https://github.com/netserva/hcp/pull/13) | (1.50) $22.00 | 2018-06-11
 | 2018-06-09 | [karkouch](https://github.com/karkouch) | [#13](https://github.com/netserva/hcp/pull/13) | (31.50) $18.00 | n
 | 2018-06-08 | [karkouch](https://github.com/karkouch) | [#12](https://github.com/netserva/hcp/pull/12) | $13.50 | n
 | 2018-06-07 | [karkouch](https://github.com/karkouch) | [#9](https://github.com/netserva/hcp/pull/9) [#10](https://github.com/netserva/hcp/pull/10) [#11](https://github.com/netserva/hcp/pull/11)| (50.00) $34.50 | 2018-06-07
